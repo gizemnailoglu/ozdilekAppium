@@ -1,0 +1,8 @@
+Created by testinium on 19.07.2021
+
+This is a concept file with following syntax for each concept.
+# Uygulamanın açıldığını kontrol et ve alışverişe başla butonuna bas
+ * "2" saniye bekle
+ * "com.ozdilek.ozdilekteyim:id/tv_marketTitle" li element "Marketten Alışveriş" text değerini içeriyormus kontrol et
+ * "com.ozdilek.ozdilekteyim:id/tv_startShoppingStore" id li elemente tıkla
+ * "com.ozdilek.ozdilekteyim:id/largeLabel" li element "Anasayfa" text değerini içeriyormus kontrol et

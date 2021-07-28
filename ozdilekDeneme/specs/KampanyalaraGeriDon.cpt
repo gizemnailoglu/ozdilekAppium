@@ -1,0 +1,13 @@
+Created by testinium on 22.07.2021
+
+This is a concept file with following syntax for each concept.
+# Geri butonuna tıklanır ve kampanyalara geri dönülür
+
+* "com.ozdilek.ozdilekteyim:id/btnLogin" li element "Giriş Yap" text değerini içeriyormus kontrol et
+* "com.ozdilek.ozdilekteyim:id/ivBack" id li elemente tıkla
+* "2" saniye bekle
+//* "//android.widget.HorizontalScrollView/android.widget.LinearLayout/android.widget.LinearLayout[1]/android.widget.TextView" li element "Kategoriler" text değerini içeriyor mu kontrol et
+* "com.ozdilek.ozdilekteyim:id/nav_account" id li elemente tıkla
+* "com.ozdilek.ozdilekteyim:id/btnLogin" li element "Giriş Yap" text değerini içeriyormus kontrol et
+* "com.ozdilek.ozdilekteyim:id/ivBack" id li elemente tıkla
+//* "//android.widget.HorizontalScrollView/android.widget.LinearLayout/android.widget.LinearLayout[1]/android.widget.TextView" li element "Kategoriler" text değerini içeriyor mu kontrol et

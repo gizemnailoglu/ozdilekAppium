@@ -1,0 +1,7 @@
+Created by testinium on 22.07.2021
+
+This is a concept file with following syntax for each concept.
+# Sepete gidilir ve giriş sayfasına geri dönülür
+* "com.ozdilek.ozdilekteyim:id/nav_cart" id li elemente tıkla
+* "com.ozdilek.ozdilekteyim:id/btnLogin" li element "Giriş Yap" text değerini içeriyormus kontrol et
+* "2" saniye bekle

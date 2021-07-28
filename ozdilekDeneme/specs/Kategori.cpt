@@ -1,0 +1,10 @@
+Created by testinium on 19.07.2021
+
+This is a concept file with following syntax for each concept.
+# Kategorilere git ve kadın secenegini sec
+
+* "2" saniye bekle
+* "com.ozdilek.ozdilekteyim:id/nav_categories" id li elemente tıkla
+* "1" saniye bekle
+* "//android.widget.HorizontalScrollView/android.widget.LinearLayout/android.widget.LinearLayout[1]/android.widget.TextView" li element "Kategoriler" text değerini içeriyor mu kontrol et
+* "//*[@resource-id='com.ozdilek.ozdilekteyim:id/relLayCategoriesItem'][2]" xpath li elemente tıkla

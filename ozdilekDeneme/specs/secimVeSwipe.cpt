@@ -1,0 +1,10 @@
+Created by testinium on 20.07.2021
+
+This is a concept file with following syntax for each concept.
+# Pantolon kategorisi seçilir ve sayfanın en altına gidilir.
+
+* "1" saniye bekle
+* "//*[@resource-id='com.ozdilek.ozdilekteyim:id/relLayCategoriesItem'][4]" xpath li elemente tıkla
+* "2" saniye bekle
+* "(//androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout/android.view.ViewGroup/android.widget.ImageView[2])[last()]" xpath li elemente tıkla
+* "2" saniye bekle
